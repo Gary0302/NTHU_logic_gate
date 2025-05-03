@@ -1,0 +1,308 @@
+29 25 305
+n23 n26 n54 n58 n59 n61 n64 n65 n77 n86 n97 n102 n118 n129 n144 n184 n205 n209 n220 n241 n257 n274 n277 n280 n305 n312 n313 n317 n323
+n29 n32 n41 n44 n80 n83 n99 n163 n177 n194 n212 n221 n226 n228 n231 n233 n243 n247 n261 n263 n282 n287 n300 n320 n326
+not n64 n95
+and n203 n276 n249
+not n153 n154
+and n191 n118 n75
+not n122 n202
+or n20 n170 n181
+and n327 n254 n169
+nor n186 n92 n248
+nor n122 n66 n135
+not n124 n224
+xnor n330 n34 n1
+nor n114 n324 n68
+not n183 n128
+not n111 n69
+xnor n275 n201 n100
+nor n309 n116 n288
+and n253 n217 n6
+xnor n7 n317 n138
+or n43 n146 n290
+not n120 n306
+not n53 n9
+or n187 n319 n289
+nor n72 n51 n252
+not n57 n246
+or n13 n145 n218
+or n130 n230 n67
+not n284 n318
+not n111 n254
+xnor n211 n294 n127
+and n179 n217 n255
+or n95 n333 n24
+xnor n269 n58 n83
+not n206 n158
+not n183 n12
+and n229 n241 n21
+xnor n236 n199 n101
+or n75 n128 n258
+xor n199 n129 n82
+not n54 n322
+and n249 n76 n162
+and n133 n175 n36
+or n140 n161 n32
+and n239 n257 n213
+nor n323 n45 n271
+or n323 n131 n329
+and n250 n53 n321
+or n36 n295 n98
+not n146 n132
+xnor n174 n241 n103
+not n72 n108
+xnor n129 n220 n94
+and n55 n39 n57
+and n81 n23 n89
+and n52 n244 n113
+not n56 n307
+not n209 n333
+and n9 n67 n215
+and n327 n108 n314
+and n35 n250 n42
+xnor n272 n102 n90
+or n256 n264 n96
+xnor n138 n127 n253
+or n157 n259 n29
+not n274 n141
+not n214 n70
+not n292 n8
+nor n110 n244 n286
+and n186 n164 n270
+not n257 n332
+not n139 n93
+or n176 n158 n14
+or n257 n88 n40
+and n242 n179 n30
+and n88 n257 n188
+xnor n207 n101 n179
+xnor n281 n280 n228
+not n97 n239
+not n154 n204
+xnor n162 n61 n263
+and n2 n216 n256
+and n74 n213 n130
+or n100 n250 n25
+xnor n129 n277 n27
+nor n150 n70 n200
+or n227 n301 n208
+or n205 n182 n56
+xnor n331 n102 n315
+and n39 n305 n311
+or n311 n91 n136
+not n125 n164
+nor n188 n1 n259
+nor n257 n313 n268
+or n51 n62 n92
+not n266 n49
+or n42 n98 n237
+xnor n315 n48 n149
+or n234 n128 n242
+not n117 n229
+or n313 n187 n143
+and n2 n189 n104
+not n316 n13
+not n79 n55
+not n270 n73
+xnor n280 n129 n151
+and n141 n257 n244
+and n227 n189 n173
+and n119 n172 n227
+or n257 n322 n166
+xnor n27 n90 n222
+nor n69 n175 n150
+and n289 n191 n210
+nor n305 n253 n109
+xnor n144 n317 n331
+and n134 n250 n310
+xnor n289 n271 n172
+or n164 n103 n111
+nor n213 n82 n330
+not n16 n153
+and n328 n250 n20
+or n281 n296 n170
+xnor n286 n297 n326
+or n257 n290 n221
+and n190 n332 n299
+xnor n63 n118 n22
+xnor n0 n61 n197
+not n293 n147
+not n56 n117
+or n95 n38 n275
+nor n275 n202 n78
+not n307 n39
+or n192 n46 n301
+not n13 n230
+nor n71 n126 n232
+not n67 n5
+and n270 n9 n293
+and n120 n17 n134
+or n113 n316 n276
+xnor n151 n65 n251
+and n136 n253 n155
+and n133 n69 n235
+not n72 n175
+and n15 n321 n133
+and n248 n125 n269
+nor n45 n156 n161
+not n292 n183
+or n206 n283 n62
+not n172 n266
+or n162 n137 n279
+or n303 n194 n84
+xnor n40 n65 n260
+or n121 n96 n178
+or n269 n178 n296
+or n165 n18 n212
+and n249 n265 n291
+or n68 n47 n226
+xnor n310 n144 n80
+xnor n169 n312 n247
+and n33 n26 n234
+and n50 n19 n174
+and n193 n182 n316
+and n284 n205 n193
+not n306 n240
+xnor n238 n299 n297
+xnor n107 n222 n50
+or n310 n84 n264
+not n323 n19
+or n224 n309 n72
+and n273 n168 n165
+xnor n256 n317 n163
+nor n158 n304 n46
+nor n54 n332 n110
+xnor n139 n166 n148
+xnor n312 n59 n0
+not n125 n124
+xnor n314 n59 n233
+xnor n106 n148 n45
+or n325 n118 n114
+xnor n6 n305 n125
+xnor n36 n277 n282
+not n323 n285
+xnor n295 n129 n261
+not n215 n225
+not n313 n219
+xnor n197 n236 n123
+and n173 n204 n303
+or n105 n30 n41
+nor n49 n14 n192
+xnor n280 n58 n106
+not n8 n91
+xnor n251 n10 n122
+nor n5 n147 n17
+nor n131 n257 n81
+and n60 n112 n105
+and n203 n189 n160
+or n21 n91 n167
+and n262 n22 n120
+or n235 n180 n190
+and n293 n204 n265
+or n314 n237 n137
+not n307 n191
+not n209 n131
+or n291 n152 n180
+xnor n255 n26 n16
+or n188 n213 n308
+not n321 n28
+not n86 n187
+nor n210 n292 n156
+not n276 n298
+and n249 n214 n327
+and n198 n77 n267
+and n268 n77 n272
+not n306 n2
+or n219 n333 n284
+xnor n58 n129 n211
+and n275 n33 n302
+nor n111 n51 n216
+xnor n291 n65 n287
+not n57 n325
+nor n285 n318 n74
+or n87 n266 n283
+or n5 n28 n51
+and n57 n109 n3
+nor n323 n122 n201
+and n232 n230 n31
+xnor n195 n123 n139
+and n258 n324 n47
+and n60 n196 n140
+xnor n94 n277 n236
+not n117 n33
+not n100 n53
+xnor n223 n61 n207
+and n219 n19 n319
+not n25 n214
+nor n241 n50 n168
+xnor n94 n312 n294
+xnor n85 n59 n107
+and n181 n182 n34
+nor n304 n245 n142
+not n184 n88
+xnor n85 n197 n48
+not n227 n115
+xnor n235 n220 n99
+or n181 n190 n146
+and n273 n78 n37
+or n159 n132 n79
+xnor n42 n129 n177
+or n244 n93 n238
+xnor n20 n129 n320
+nor n257 n143 n223
+not n325 n60
+and n218 n71 n4
+or n37 n135 n243
+not n323 n217
+and n288 n224 n295
+nor n120 n208 n126
+or n25 n11 n116
+nor n26 n179 n112
+not n319 n198
+not n103 n186
+not n22 n206
+and n1 n308 n157
+xnor n260 n149 n324
+or n3 n155 n231
+not n246 n273
+nor n176 n304 n262
+nor n147 n11 n35
+nor n225 n62 n278
+nor n289 n171 n196
+and n108 n215 n189
+xnor n85 n315 n199
+and n240 n252 n121
+xnor n121 n102 n300
+not n103 n309
+xnor n89 n144 n10
+not n257 n182
+xnor n129 n65 n195
+and n329 n23 n176
+not n11 n15
+or n298 n115 n11
+nor n159 n318 n52
+buf n16 n250
+not n45 n171
+not n329 n38
+nor n265 n185 n145
+and n160 n250 n281
+nor n302 n12 n66
+xnor n303 n129 n44
+nor n257 n24 n7
+not n62 n203
+and n324 n285 n63
+or n267 n176 n87
+and n321 n270 n76
+or n200 n76 n185
+or n267 n49 n304
+or n73 n70 n71
+and n104 n153 n194
+and n79 n229 n292
+or n169 n279 n152
+or n31 n142 n43
+xnor n151 n58 n85
+not n323 n159
+nor n267 n14 n119
+or n14 n4 n245
+and n278 n254 n328
+and n167 n50 n18
